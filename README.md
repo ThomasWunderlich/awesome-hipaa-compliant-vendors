@@ -12,4 +12,13 @@ Google Hangouts (without video)
 Microsoft Teams
 
 ### Email
+Amazon SNS
+
+LuxSci
+
 Mailgun
+
+### SMS
+Amazon SNS
+
+LuxSci
